@@ -1,0 +1,8 @@
+# robots.txt for Marcos Castro Portfolio
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /index.html
+
+
+# Sitemap: https://teclab.uct.cl/~marcos.castro/sitemap.xml 
