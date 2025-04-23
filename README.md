@@ -1,4 +1,5 @@
 # Portafolio Personal - Marcos Castro
+DEMO: 
 
 ## 🚀 Descripción
 Portafolio personal desarrollado con HTML5, CSS3 y JavaScript, siguiendo las mejores prácticas de desarrollo web, accesibilidad y rendimiento.
@@ -67,9 +68,6 @@ cd portafolio
 
 ## 📚 Documentación
 Para más detalles sobre la implementación y estructura del proyecto, consulta el archivo [DOCUMENTATION.md](./DOCUMENTATION.md).
-
-## 🤝 Contribuciones
-Las contribuciones son bienvenidas. Por favor, lee [CONTRIBUTING.md](./CONTRIBUTING.md) para detalles sobre nuestro código de conducta y el proceso para enviarnos pull requests.
 
 ## 📄 Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](./LICENSE) para más detalles.
